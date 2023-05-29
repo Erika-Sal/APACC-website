@@ -73,6 +73,9 @@ a{
 
 
 @media (max-width: 700px){
+    body{
+        overflow-x: hidden;
+    }
     .toggle-button{
         display:flex;
     }
