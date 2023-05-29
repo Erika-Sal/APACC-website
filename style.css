@@ -172,7 +172,7 @@ a{
         border-bottom: 5px solid black; 
     }
     .text, .blurb{
-        inline-size: 470px;
+        inline-size: 300px;
         text-align:center;
     }
 
