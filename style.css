@@ -102,7 +102,8 @@ a{
 
     .navbar-links li{
         text-align:center; 
-        margin-left:30px; 
+        margin-left:50px; 
+        inline-size: 100px;
     }
 
     .navbar-links li a{
