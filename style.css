@@ -185,6 +185,9 @@ a{
         text-align:center;
     }
 
+    .sec3Title{
+        font-size:22px;
+    }
     .sec3Text{
         inline-size: 190px;
         margin-left:50px; 
