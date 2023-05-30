@@ -205,6 +205,8 @@ a{
         margin-left:25px; 
         display: flex;
         flex-direction: row-reverse;
+        padding-bottom:80px; 
+        border-bottom: 5px solid black; 
     }
 }
 
