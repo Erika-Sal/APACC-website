@@ -118,15 +118,13 @@ a{
 
 
     .blob1{
-        
         margin-top:5vmin; 
         margin-left:5vmin;
         margin-right:10vmin; 
-        width:45vmin; 
-        height:40vmin; 
+        width:50vmin; 
+        height:45vmin; 
         -webkit-animation: rotation 4s infinite ;
         border: 2px solid black; 
-
     }
 
     .asian{
