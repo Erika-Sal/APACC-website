@@ -119,11 +119,11 @@ a{
 
     .blob1{
         
-        margin-top:-10vmin; 
-        margin-left:-1vmin;
+        margin-top:5vmin; 
+        margin-left:8vmin;
         margin-right:10vmin; 
-        width:40vmin; 
-        height:35vmin; 
+        width:45vmin; 
+        height:40vmin; 
         -webkit-animation: rotation 4s infinite ;
         border: 2px solid black; 
 
@@ -131,13 +131,13 @@ a{
 
     .asian{
         font-size:15px;
-        inline-size: 260px; 
+        inline-size: 150px; 
         text-align: center;
 
     }
 
     .welcome{
-        font-size:20px; 
+        font-size:25px; 
     }
 
     .sec1Text{
@@ -148,6 +148,7 @@ a{
         text-align:center; 
         padding:25px; 
         margin-left:-25vmin; 
+        inline-size:150px; 
         margin-bottom:15vmin; 
        
        }
