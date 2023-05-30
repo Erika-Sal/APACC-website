@@ -186,14 +186,20 @@ a{
     }
 
     .sec3Text{
-        margin-top:100px; 
-        margin-left:20px; 
+
+        margin-left:50px; 
     }
     .blob2{
-        width:100vmin;
-        height:70vmin; 
+        width:40vmin;
+        height:40vmin; 
         border: 2px solid black; 
 
+    }
+
+    .sec3{
+        margin-top:80px; 
+        display: flex;
+        flex-direction: row-reverse;
     }
 }
 
@@ -300,8 +306,8 @@ a{
     }
 
     .blob2{
-        width: 75vmin;
-        height:65vmin; 
+        width: 45vmin;
+        height:35vmin; 
         margin-top:60vmin; 
         margin-right: 20px; 
         -webkit-animation: rotation 4s infinite;
