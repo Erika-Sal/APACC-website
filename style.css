@@ -191,6 +191,7 @@ a{
     .sec3Text{
         inline-size: 190px;
         margin-left:20px; 
+        margin-right:5px; 
     }
     .blob2{
         width:40vmin;
