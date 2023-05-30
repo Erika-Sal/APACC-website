@@ -186,7 +186,7 @@ a{
     }
 
     .sec3Text{
-
+        inline-size: 320px;
         margin-left:50px; 
     }
     .blob2{
