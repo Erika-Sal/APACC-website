@@ -120,7 +120,7 @@ a{
     .blob1{
         
         margin-top:5vmin; 
-        margin-left:8vmin;
+        margin-left:5vmin;
         margin-right:10vmin; 
         width:45vmin; 
         height:40vmin; 
@@ -130,14 +130,14 @@ a{
     }
 
     .asian{
-        font-size:15px;
-        inline-size: 150px; 
-        text-align: center;
-
+        font-size:12px;
+        inline-size: 110px;
+        display: flex;
+        
     }
 
     .welcome{
-        font-size:25px; 
+        font-size:20px; 
     }
 
     .sec1Text{
