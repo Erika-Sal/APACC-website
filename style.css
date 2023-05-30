@@ -201,6 +201,7 @@ a{
 
     .sec3{
         margin-top:80px; 
+        margin-left:5px; 
         display: flex;
         flex-direction: row-reverse;
     }
