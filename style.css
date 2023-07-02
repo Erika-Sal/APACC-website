@@ -173,8 +173,8 @@ a{
 position: absolute;
 width: 459px;
 height: 287px;
-left: 707px;
-top: 1321px;
+margin-left:50vw; 
+margin-top:20vh; 
 
 border: 5px solid #000000;
 border-radius: 40px;
@@ -184,8 +184,7 @@ border-radius: 40px;
 .upcoming{
     width: 429px;
     height: 61px;
-    left: 726px;
-    top: 1373px;
+   
 
     font-family: 'Inter';
     font-style: normal;
@@ -221,12 +220,10 @@ border-radius: 40px;
 .sec4Text{
     box-sizing: border-box;
 
-    
     width: 459px;
     height: 287px;
-    margin-left: 10%; 
-    margin-top: 113px;
-
+    margin-left: 9vw; 
+    margin-top: 10vh;
     border: 5px solid #000000;
     border-radius: 40px;
 }
@@ -234,8 +231,8 @@ border-radius: 40px;
 .become{
     width: 372px;
     height: 81px;
-    margin-left:30px;
-    margin-top:40px; 
+    margin-left:3vw;
+    margin-top:5vh; 
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -249,15 +246,17 @@ border-radius: 40px;
     width: 223px;
     height: 56px;
     font-size: 27px; 
-    margin-top:20px; 
-    margin-left:100px; 
+    margin-top:6vh; 
+    margin-left:9vw; 
     background: #B9E4FC;
     border-radius: 20px;
 }
 
 .blob2{
-    width: 522.74px;
-height: 526.85px;
+    width: 530px;
+height: 535px; 
+
+margin-right:-1vw;
 }
 
 .sec5{
@@ -268,10 +267,39 @@ height: 526.85px;
     box-sizing: border-box;
     width: 459px;
     height: 287px;
-    margin-left:200px; 
-    margin-top:100px; 
+    margin-left:10vw; 
+    margin-top:20vh; 
     border: 5px solid #000000;
     border-radius: 40px;
+}
+
+.bring{
+    width: 372px;
+    height: 81px;
+    margin-left:3vw;
+    margin-top:5vh; 
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: center;
+    color: #000000;
+}
+
+.signB{
+    width: 223px;
+    height: 56px;
+    font-size: 27px; 
+    margin-top:6vh; 
+    margin-left:9vw; 
+    background: #B9E4FC;
+    border-radius: 20px;
+}
+
+.blob3{
+    width:530px; 
+    margin-top:-10vh; 
 }
 
 
@@ -364,4 +392,100 @@ height: 526.85px;
         margin-left:-150vw; 
         transform: rotate(41.58deg);
     }
+
+    .blob1{
+        width:250px;
+        height:250px; 
+    }
+
+    .sec3Text{
+        box-sizing: border-box;
+    
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin-left:55vw; 
+    margin-top:6vh; 
+    border: 5px solid #000000;
+    border-radius: 40px;
+    
+    }
+
+    .upcoming{
+        font-size:20px; 
+        margin-left:-23vw; 
+    }
+
+    .dates{
+        margin-left:-15vw;
+        margin-top:-4vh;
+       color:black;
+        font-size:15px; 
+        
+    }
+
+    .sec4Text{
+        box-sizing: border-box;
+        width: 210px;
+        height: 200px;
+        margin-left: 3vw; 
+        margin-top: 10vh;
+        border: 5px solid #000000;
+        border-radius: 40px;
+    }
+    
+    .blob2{
+        width:230px;
+        height:230px;
+        margin-top:10vh;
+    }
+
+    .become{
+        font-size:18px; 
+        margin-left:2vw;
+        inline-size: 180px;
+        line-height: 5vh;
+    }
+
+    .joinB{
+        width:150px;
+        height:50px;
+        margin-top:-6vh; 
+        margin-left:5vw; 
+        font-size:20px; 
+    }
+
+    .blob3{
+        width:230px;
+        height:230px;
+        margin-top:10vh; 
+    }
+
+    .sec5Text{
+        box-sizing: border-box;
+        width: 43vw;
+        height: 200px;
+        margin-left:5vw; 
+        margin-top:15vh; 
+        border: 5px solid #000000;
+        border-radius: 40px;
+    }
+
+    .bring{
+        font-size:20px; 
+        inline-size: 180px;
+        line-height: 5vh;
+        margin-left:3vw; 
+    }
+
+    .signB{
+        width: 123px;
+    height: 56px;
+    font-size: 20px; 
+    margin-top:-3vh; 
+    margin-left:7vw; 
+    background: #B9E4FC;
+    border-radius: 20px;
+    }
+   
 }
