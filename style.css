@@ -89,13 +89,10 @@ a{
     border-radius: 10px;
 }
 
-
 .welcome{   
     position: absolute;
-  
-    padding-left: 40vh;
-    top: 129px;
-
+    padding-left: 15vw;
+    top: 19vh;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -110,9 +107,8 @@ a{
 
 .asian{
     position: absolute;
-    left: 367px;
-    top: 270px;
-
+    left: 28vw;
+    top: 45vh;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -142,6 +138,8 @@ a{
 .blurb{
     font-size: 30px; 
     text-align:center; 
+    margin-left:10vw;
+    margin-right:10vw;
 }
 
 .rb1{
@@ -311,4 +309,59 @@ height: 526.85px;
         display:block;
     }
 
+    .welcome{   
+        padding-left: 10vw;
+        top: -110vh;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 66px;
+        text-align: center;
+        inline-size: 450px;
+        color: #FFFFFF;    
+        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+
+    .asian{
+        left: 9vw;
+        top: -78vh;
+        font-family: 'Inter';
+        font-style: normal;
+        inline-size: 450px;
+        font-weight: 400;
+        font-size: 22px;
+        color: #FFFFFF;
+        text-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+    }
+    .words{
+        position: absolute;
+        z-index:4; 
+    }
+
+    .blurb{
+        font-size: 25px; 
+        margin-left:5vw;
+        margin-right:5vw; 
+    }
+   
+    .what{
+        font-size: 55px; 
+    }
+
+    .rb1{
+        position: absolute;
+        width: 71.87px;
+        height: 72.34px;
+        margin-left:-10vw; 
+        transform: rotate(-4.46deg);
+    
+    }
+    
+    .rb2{
+        position: absolute;
+        width: 61.87px;
+        height: 62.34px;
+        margin-left:-150vw; 
+        transform: rotate(41.58deg);
+    }
 }
