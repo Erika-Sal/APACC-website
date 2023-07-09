@@ -1,0 +1,227 @@
+body{
+    overflow-x: hidden;
+    font-family: 'Inter';
+    font-style: normal;
+}
+
+.logo{
+    display:flex; 
+}
+
+.dragon{
+    width:30px;
+    height:30px; 
+    position:absolute; 
+    top:49px; 
+}
+
+.brand-title{
+    text-decoration:none; 
+}
+a{
+    color: black; 
+}
+.navbar{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #B9E4FC;
+    color:black;
+    padding-bottom:20px; 
+    padding-top:20px; 
+    margin:-10px; 
+}
+
+.brand-title{
+    font-size: 1.5rem;
+    margin:.5rem;
+    color:black; 
+}
+
+.navbar-links ul{
+    margin:0;
+    padding:0;
+    display:flex;
+}
+
+.navbar-links li{
+    list-style: none;
+}
+
+.navbar-links li a {
+    text-decoration: none;
+    font-size:17px; 
+    color:black;
+    padding:1rem;
+    display:block
+}
+
+.navbar-links li:hover{
+    background-color: #B9E4FC;
+}
+
+.toggle-button{
+    position: absolute;
+    top: 1.8rem;
+    right:1rem;
+    display:none;
+    flex-direction:column;
+    justify-content: space-between;
+    width:30px;
+    height:21px; 
+}
+
+@media (max-width: 700px){
+    .toggle-button{
+        display:flex;
+    }
+
+    .navbar-links{
+       display:none;
+        width:100%;
+     
+    }
+
+    .navbar{
+        flex-direction: column; 
+        align-items:flex-start;
+       
+    }
+
+    .navbar-links ul{
+        width:100%;
+        flex-direction: column;
+    }
+
+    .navbar-links li{
+        text-align:center; 
+    }
+
+    .navbar-links li a{
+        padding:.5rem 1rem; 
+    }
+
+    .navbar-links.active {
+        display:block;
+    }
+}
+
+.toggle-button .bar{
+    height: 3px;
+    width: 100%;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.flexbox-items{
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction:row;
+ 
+    justify-content:space-evenly;
+   
+  }
+
+  .flexbox-items{
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction:row;
+ 
+    justify-content:space-evenly;
+   
+  }
+  .flexbox-items2{
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction:row;
+    justify-content:space-evenly;
+   
+  }
+  .flexbox-items3{
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction:row;
+    justify-content:space-evenly;
+   
+  }
+  .flexbox-items4{
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction:row;
+    justify-content:space-evenly;
+   
+  }
+
+  .flexbox-items5{
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction:row;
+    justify-content:space-evenly;
+   
+  }
+
+  .img1{
+    object-fit:contain;
+    background-color:#B9E4FC;
+  width:250px;
+  height:200px;
+  font-size:25px;
+  border:6px solid black;
+  font-family: 'Bebas Neue', cursive;
+}
+
+p{
+  font-size: 20px; 
+}
+/* The flip box container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
+.flip-box {
+    background-color: transparent;
+    width:250px;
+    height:200px;
+    /*border: 1px solid #f1f1f1;*/
+    perspective: 1000px; /* Remove this if you don't want the 3D effect */
+  }
+  
+  /* This container is needed to position the front and back side */
+  .flip-box-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+  }
+  
+  /* Do an horizontal flip when you move the mouse over the flip box container */
+  .flip-box:hover .flip-box-inner {
+    transform: rotateY(180deg);
+  }
+  
+  /* Position the front and back side */
+  .flip-box-front, .flip-box-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden; /* Safari */
+    backface-visibility: hidden;
+  }
+  
+  /* Style the front side (fallback if image is missing) */
+  .flip-box-front {
+    background-color: #B9E4FC;
+    color: black;
+  }
+  
+  /* Style the back side */
+  .flip-box-back {
+    border:6px solid black;
+    background-color: #B9E4FC;
+    color: black;
+    transform: rotateY(180deg);
+  }
+
+  .banner{
+    width:102%; 
+    margin-top:2vh; 
+    margin-left:-1vw; 
+  }
