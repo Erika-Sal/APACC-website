@@ -550,7 +550,7 @@ margin-right:-1vw;
 @media screen and (max-width: 420px){
     .welcome{
         position:absolute;
-        background-color:red;
+        background-color:blue;
         padding-left: -5vw;
         padding-top:18vh;
         font-family: 'Inter';
@@ -595,6 +595,6 @@ margin-right:-1vw;
     }
 
     .sec3{
-        margin-top:60vh; 
+        margin-top:80vh; 
     }
 }
