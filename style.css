@@ -549,7 +549,7 @@ margin-right:-1vw;
 
 @media screen and (max-width: 420px){
     .navbar{
-        z-index:3;
+        z-index:10;
     }
    
     .welcome{
