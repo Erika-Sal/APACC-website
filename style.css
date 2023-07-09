@@ -564,6 +564,9 @@ margin-right:-1vw;
 
     .headerPic{
         overflow-x:hidden;
+        margin-left: 50%;
+  transform: translateX(-50%);
+
     }
 
     .blueCloud{
@@ -571,5 +574,8 @@ margin-right:-1vw;
         margin-top:-300px; 
         height: 730px;
         overflow-x: hidden;
+        margin-left: 50%;
+  transform: translateX(-50%);
+
     }
 }
