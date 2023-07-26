@@ -91,10 +91,12 @@ a{
     border-radius: 10px;
 }
 
+.words
+
 .welcome{   
     position: absolute;
     padding-left: 15vw;
-    top: 19vh;
+    top: 21vh;
     font-weight: 400;
     font-size: 96px;
  
@@ -107,7 +109,7 @@ a{
 
 .asian{
     position: absolute;
-    top:17rem;
+    top:18rem;
     margin-left:25vw;
   
     font-style: normal;
