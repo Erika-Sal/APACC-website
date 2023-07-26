@@ -41,6 +41,7 @@ a{
     align-items: center;
     background-color: #B9E4FC;
     color:black;
+     font-family: 'Roboto Slab', serif;
     padding-bottom:20px; 
     padding-top:20px; 
 }
@@ -65,6 +66,7 @@ a{
     text-decoration: none;
     font-size:17px; 
     color:black;
+    font-family: 'Roboto Slab', serif;
     padding:1rem;
     display:block
 }
@@ -99,7 +101,7 @@ a{
     top: 9rem;
     font-weight: 400;
     font-size: 96px;
- 
+    font-family: 'Roboto Slab', serif;
     text-align: center;
 
     color: #FFFFFF;
@@ -111,7 +113,7 @@ a{
     position: absolute;
     top:18rem;
     margin-left:25vw;
-  
+    font-family: 'Roboto Slab', serif;
     font-style: normal;
     font-weight: 400;
     font-size: 32px;
@@ -171,7 +173,7 @@ a{
 
 .sec3Text{
     box-sizing: border-box;
-
+    font-family: 'Roboto Slab', serif;
 position: absolute;
 width: 459px;
 height: 287px;
@@ -186,7 +188,7 @@ border-radius: 40px;
 .upcoming{
     width: 429px;
     height: 61px;
-   
+    font-family: 'Roboto Slab', serif;
 
    
     font-style: normal;
@@ -204,7 +206,7 @@ border-radius: 40px;
     height: 91px;
     left: 744px;
     top: 1411px;
-    
+    font-family: 'Roboto Slab', serif;
     font-style: normal;
     font-weight: 400;
     font-size: 32px;
@@ -221,7 +223,7 @@ border-radius: 40px;
 
 .sec4Text{
     box-sizing: border-box;
-
+    font-family: 'Roboto Slab', serif;
     width: 459px;
     height: 287px;
     margin-left: 9vw; 
@@ -235,7 +237,7 @@ border-radius: 40px;
     height: 81px;
     margin-left:3vw;
     margin-top:5vh; 
-  
+    font-family: 'Roboto Slab', serif;
     font-style: normal;
     font-weight: 400;
     font-size: 40px;
@@ -248,7 +250,7 @@ border-radius: 40px;
     width: 223px;
     height: 56px;
     font-size: 27px; 
-    margin-top:6vh; 
+    margin-top:2rem; 
     margin-left:9vw; 
     background: #B9E4FC;
     border-radius: 20px;
@@ -280,7 +282,7 @@ margin-right:-1vw;
     height: 81px;
     margin-left:3vw;
     margin-top:5vh; 
-    
+    font-family: 'Roboto Slab', serif;
     font-style: normal;
     font-weight: 400;
     font-size: 40px;
@@ -293,7 +295,7 @@ margin-right:-1vw;
     width: 223px;
     height: 56px;
     font-size: 27px; 
-    margin-top:6vh; 
+    margin-top:2rem; 
     margin-left:9vw; 
     background: #B9E4FC;
     border-radius: 20px;
@@ -379,7 +381,7 @@ margin-right:-1vw;
     .welcome{   
         padding-left: 10vw;
         top: -110vh;
-       
+        font-family: 'Roboto Slab', serif;
         font-style: normal;
         font-weight: 400;
         font-size: 66px;
@@ -392,7 +394,7 @@ margin-right:-1vw;
     .asian{
         left: 9vw;
         top: -78vh;
-       
+        font-family: 'Roboto Slab', serif;
         font-style: normal;
         inline-size: 450px;
         font-weight: 400;
@@ -439,7 +441,7 @@ margin-right:-1vw;
 
     .sec3Text{
         box-sizing: border-box;
-    
+        font-family: 'Roboto Slab', serif;
     position: absolute;
     width: 200px;
     height: 200px;
@@ -554,7 +556,7 @@ margin-right:-1vw;
         position:absolute;
         padding-left: -5vw;
         padding-top:18vh;
-        
+        font-family: 'Roboto Slab', serif;
         inline-size:305px; 
         font-style: normal;
         font-weight: 400;
@@ -567,7 +569,7 @@ margin-right:-1vw;
     .asian{
        padding-top:4vh;
         margin-left:3vw; 
-       
+        font-family: 'Roboto Slab', serif;
         font-style: normal;
         inline-size: 450px;
         font-weight: 400;
@@ -597,13 +599,13 @@ margin-right:-1vw;
 
     .blurb{
         font-size: 18px; 
-       
+        font-family: 'Roboto Slab', serif;
         font-style: normal;
     }
    
     .what{
         font-size: 40px; 
-      
+        font-family: 'Roboto Slab', serif;
         font-style: normal;
     }
 
