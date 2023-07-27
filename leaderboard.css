@@ -116,9 +116,9 @@ body{
   }
 
   .banner{
-    width:102%; 
+    width:105%; 
     margin-top:2vh; 
-    margin-left:-1vw; 
+    margin-left:0vw; 
   }
 
    .Place1{
@@ -126,7 +126,7 @@ body{
     border: 5px solid #000;
     display:flex;
     margin-left:38vw; 
-    margin-top:-10vh; 
+    margin-top:-14vh; 
     width:16.0625rem;
     height: 4.875rem;
     display:flex; 
@@ -145,7 +145,7 @@ body{
 
   .secondRow{
     display:flex; 
-    margin-top:13vh; 
+    margin-top:8vh; 
   }
 
   .secondPlace{
@@ -154,7 +154,7 @@ body{
     width:16.0625rem;
     height: 4.875rem;
     margin-left:20vw; 
-    margin-right:5vw; 
+    margin-right:6vw; 
   }
 
   .Place2Words{
@@ -187,3 +187,59 @@ body{
     margin-top:5px; 
     inline-size: 10px;
   }
+
+  .arrow{
+    width:50px;
+    height:50px; 
+    margin-left:47vw; 
+  }
+
+  .teamWin{
+    border-radius: 20px;
+    border: 5px solid #000;
+    width: 638px;
+    height: 86px;
+    margin-left:23vw; 
+    margin-bottom: 5vh; 
+  }
+
+  .tw{
+    text-align:center; 
+  }
+  .footer{
+    margin-top:10vh; 
+    padding-top: 5vh;
+    padding-bottom: 3vh; 
+    background-color:#B9E4FC;
+    display:flex;
+}
+
+.socials{
+    margin-top:4vh; 
+}
+
+.remind{
+    margin-left:70vw; 
+    width:45px; 
+    height:45px; 
+}
+
+.insta{
+    margin-left: 3vw; 
+    width:45px; 
+    height:45x;
+}
+
+.tt{
+    margin-left: 3vw; 
+    width:45px; 
+    height:45x; 
+}
+
+.contact{
+    font-size:22px; 
+    inline-size:10px; 
+    margin-left:3vw; 
+}
+
+

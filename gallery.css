@@ -227,3 +227,38 @@ p{
     margin-top:2vh; 
     margin-left:-1vw; 
   }
+  .footer{
+    margin-top:10vh; 
+    padding-top: 5vh;
+    padding-bottom: 3vh; 
+    background-color:#B9E4FC;
+    display:flex;
+}
+
+.socials{
+    margin-top:4vh; 
+}
+
+.remind{
+    margin-left:70vw; 
+    width:45px; 
+    height:45px; 
+}
+
+.insta{
+    margin-left: 3vw; 
+    width:45px; 
+    height:45x;
+}
+
+.tt{
+    margin-left: 3vw; 
+    width:45px; 
+    height:45x; 
+}
+
+.contact{
+    font-size:22px; 
+    inline-size:10px; 
+    margin-left:3vw; 
+}
