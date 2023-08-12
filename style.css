@@ -620,7 +620,7 @@ margin-right:-1vw;
     .sec3Text{
         box-sizing: border-box;
         position: absolute;
-        width: 160px;
+        width: 165px;
         height: 160px;
         margin-left:50vw; 
         margin-top:3vh; 
@@ -649,7 +649,7 @@ margin-right:-1vw;
 
     .sec4Text{
         box-sizing: border-box;
-       width: 160px;
+        width: 160px;
         height: 160px;
         margin-left: 4vw; 
         margin-top: 10vh;
@@ -658,11 +658,11 @@ margin-right:-1vw;
     }
 
     .become{
-        font-size:19px; 
+        font-size:17px; 
         margin-left:3vw;
         inline-size: 130px;
         line-height: 3vh;
-        margin-bottom: 2vh;
+        margin-bottom: -1vh;
     }
 
     .joinB{
