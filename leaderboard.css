@@ -243,6 +243,39 @@ body{
 }
 
 @media screen and (max-width: 420px){
+
+    .toggle-button{
+        display:flex;
+    }
+
+    .navbar-links{
+       display:none;
+        width:100%;
+     
+    }
+
+    .navbar{
+        flex-direction: column; 
+        align-items:flex-start;
+       
+    }
+
+    .navbar-links ul{
+        width:100%;
+        flex-direction: column;
+    }
+
+    .navbar-links li{
+        text-align:center; 
+    }
+
+    .navbar-links li a{
+        padding:.5rem 1rem; 
+    }
+
+    .navbar-links.active {
+        display:block;
+    }
     .Place1{
         border-radius: 40px;
         border: 5px solid #000;
