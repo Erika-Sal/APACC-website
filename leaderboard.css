@@ -321,7 +321,7 @@ body{
       .teamWin{
         border-radius: 20px;
         border: 5px solid #000;
-        width: 238px;
+        width: 278px;
         height: 86px;
         margin-left:17vw; 
         margin-bottom: 5vh; 
@@ -330,7 +330,7 @@ body{
       .tw{
         text-align:center; 
         font-size: 17px;
-        margin-top:2vh; 
+        margin-top:3vh; 
       }
     
 }
