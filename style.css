@@ -658,6 +658,7 @@ margin-right:-1vw;
     }
 
     .become{
+        margin-top:-10px; 
         font-size:17px; 
         margin-left:3vw;
         inline-size: 130px;
