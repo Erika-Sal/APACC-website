@@ -306,7 +306,7 @@ body{
     
       .Place3Words{
         display:flex; 
-        margin-left:0px; 
+        margin-left:-10px; 
         font-size: 20px;
         margin-top:5px; 
         inline-size: 12px;
