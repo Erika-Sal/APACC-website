@@ -331,7 +331,33 @@ body{
         text-align:center; 
         font-size: 18px;
         margin-top:3.5vh; 
+        margin-right: 1vw;
+        margin-left:1vw;
       }
+
+      .socials{
+        margin-top:1vh; 
+    }
+
+    .contact{
+        font-size: 11px; 
+    }
+
+    .remind{
+        margin-left:60vw; 
+        width:30px;
+        height:30px; 
+       }
+    
+    .insta{
+        width:30px;
+        height:30px; 
+    }
+
+    .tt{
+        width:30px;
+        height:30px; 
+    }
     
 }
 
