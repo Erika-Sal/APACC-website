@@ -282,7 +282,7 @@ body{
     
       .Place2Words{
         display:flex; 
-        margin-left:75px; 
+        margin-left:55px; 
         font-size: 20px;
         margin-top:5px; 
         inline-size: 10px;
@@ -292,6 +292,24 @@ body{
         height:2.3125rem; 
         margin-top: 1rem; 
         margin-right:1vw; 
+      }
+      .thirdPlace{
+        border-radius: 40px;
+        border: 5px solid #000;
+        display:flex;
+        margin-left:2vw; 
+        margin-top:1vh; 
+        width:22.0625rem;
+        height: 3.875rem;
+        display:flex; 
+      }
+    
+      .Place3Words{
+        display:flex; 
+        margin-left:55px; 
+        font-size: 20px;
+        margin-top:5px; 
+        inline-size: 10px;
       }
     
 }
