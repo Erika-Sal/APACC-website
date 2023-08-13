@@ -108,7 +108,6 @@ a{
 .pandvp, .secretaries, .event, .tech, .comm{
     display:flex;
     flex-direction:row; 
-    
     text-align: center;
     position:relative;
     justify-content: space-evenly;
@@ -162,16 +161,6 @@ a{
   /* On hover, add a black background color with a little bit see-through */
  
 /* The dots/bullets/indicators */
-.dot {
-    cursor: pointer;
-    height: 15px;
-    width: 15px;
-    margin: 0 2px;
-    background-color: #bbb;
-    border-radius: 50%;
-    display: inline-block;
-    transition: background-color 0.6s ease;
-  }
   
 
 
@@ -345,6 +334,19 @@ a{
 }
 
 @media screen and (max-width: 420px){
+    .pandvp, .secretaries, .event, .tech, .comm{
+        display:flex;
+        flex-direction:row; 
+        text-align: center;
+        position:relative;
+        justify-content: space-evenly;
+        margin-top:-5vh;
+    }
+    
+    .erikaPic, .erinPic, .aubreyTPic, .meganPic, .aubreyNPic, .lindsayPic, .joliePic, .minhThuPic, .britneyPic, .reneePic, .kaylaPic{
+        width:150px;
+        height:150px;
+    }   
     .socials{
         margin-top:1vh; 
     }
