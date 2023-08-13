@@ -346,13 +346,17 @@ a{
         text-align: center;
         position:relative;
         justify-content: space-evenly;
-        margin-top:5vh;
+        margin-top:-1vh;
     }
     
     .erikaPic, .erinPic, .aubreyTPic, .meganPic, .aubreyNPic, .lindsayPic, .joliePic, .minhThuPic, .britneyPic, .reneePic, .kaylaPic{
         width:100px;
         height:100px;
-    }   
+    }  
+    
+    .erikaPic{
+        margin-left:3vw; 
+    }
     .socials{
         margin-top:1vh; 
     }
