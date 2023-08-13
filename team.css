@@ -336,7 +336,7 @@ a{
 @media screen and (max-width: 420px){
     .banner{
         width:110%; 
-        height:102%; 
+        height:112%; 
         margin-top:2vh; 
         margin-left:-1vw; 
     }
@@ -346,12 +346,12 @@ a{
         text-align: center;
         position:relative;
         justify-content: space-evenly;
-        margin-top:-5vh;
+        margin-top:5vh;
     }
     
     .erikaPic, .erinPic, .aubreyTPic, .meganPic, .aubreyNPic, .lindsayPic, .joliePic, .minhThuPic, .britneyPic, .reneePic, .kaylaPic{
-        width:150px;
-        height:150px;
+        width:100px;
+        height:100px;
     }   
     .socials{
         margin-top:1vh; 
