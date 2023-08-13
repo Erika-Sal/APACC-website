@@ -622,13 +622,15 @@ margin-right:-1vw;
 
 
     .dates{
-       
+        padding:10vmin;
         border: 5px solid #000000;
         border-radius: 40px;
         text-align:center; 
         color:black;
         font-size:13px; 
         line-height: 28px;
+
+        margin-left:-5vmin; 
     }
     
     .blob2{
