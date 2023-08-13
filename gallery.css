@@ -130,15 +130,6 @@ a{
     justify-content:space-evenly;
    
   }
-
-  .flexbox-items{
-    display:flex;
-    flex-wrap:wrap;
-    flex-direction:row;
- 
-    justify-content:space-evenly;
-   
-  }
   .flexbox-items2{
     display:flex;
     flex-wrap:wrap;
@@ -268,4 +259,40 @@ p{
     font-size:22px; 
     inline-size:10px; 
     margin-left:3vw; 
+}
+
+@media screen and (max-width: 420px){
+
+  .flip-box {
+    background-color: transparent;
+    width:250px;
+    height:200px;
+    margin-bottom:3vh; 
+    /*border: 1px solid #f1f1f1;*/
+    perspective: 1000px; /* Remove this if you don't want the 3D effect */
+  }
+  .socials{
+      margin-top:1vh; 
+  }
+
+  .contact{
+      font-size: 11px; 
+  }
+
+  .remind{
+      margin-left:60vw; 
+      width:30px;
+      height:30px; 
+     }
+  
+  .insta{
+      width:30px;
+      height:30px; 
+  }
+
+  .tt{
+      width:30px;
+      height:30px; 
+  }
+  
 }
