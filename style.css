@@ -6,7 +6,7 @@
 }
 
 @-ms-viewport {
-    width: device-width ;
+    width: device-width;
   }
   
 
@@ -98,7 +98,7 @@ a{
 .welcome{   
     position: absolute;
     padding-left: 15vw;
-    top: 9rem;
+    top: 20vmin;
     font-weight: 400;
     font-size: 96px;
     font-family: 'Roboto Slab', serif;
@@ -554,8 +554,8 @@ margin-right:-1vw;
 @media screen and (max-width: 420px){
     .welcome{
         position:absolute;
-        padding-left: -5vw;
-        margin-top:-800px; 
+        padding-left: -5vmin;
+        margin-top:-80vmin; 
         font-family: 'Roboto Slab', serif;
         inline-size:305px; 
         font-style: normal;
