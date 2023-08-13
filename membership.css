@@ -529,7 +529,7 @@ background-color: red;
 .communityWords{
     width: 233px;
     height: 53px;
-    margin-top:4vh; 
+    margin-top:2vh; 
     flex-shrink: 0;
     margin-left:4vw; 
     color: #000;
@@ -546,6 +546,12 @@ background-color: red;
     flex-shrink: 0;
     border: 3px solid #000;
     margin-left:16vw;
+}
+
+.arrow4{
+    width:80px; 
+    height:80px; 
+    margin-left:40%; 
 }
     
 }
