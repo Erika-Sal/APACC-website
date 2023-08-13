@@ -432,7 +432,7 @@ background-color: red;
 
 .foodWords{
     width: 243px;
-    height: 47px;
+    height: 53px;
     flex-shrink: 0;
     color: #000;
     text-align: center;
@@ -440,7 +440,6 @@ background-color: red;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    background-color:red; 
 }
 
 .foodPic{
