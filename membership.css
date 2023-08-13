@@ -478,9 +478,9 @@ background-color: red;
 }
 
 .learnWords{
-    width: 223px;
+    width: 243px;
     height: 53px;
-    margin-top:4vh; 
+    margin-top:2vh; 
     flex-shrink: 0;
     color: #000;
     text-align: center;
