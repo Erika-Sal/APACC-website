@@ -2,10 +2,123 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" >
     <title>Document</title>
+    <link rel="stylesheet" href="./team.css">
+    <script src="./team.js" defer></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap" rel="stylesheet">
 </head>
 <body>
-    
+    <nav class="navbar">
+        <div class="logo">
+            <div class="brand-title"><a href="./index.html" style="text-decoration: none;">APACC</a></div>
+        </div>
+       
+        <a href="/" class="toggle-button" onclick="submit(event);">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+        </a>
+        <div class="navbar-links">
+            <ul>
+                <li><a href="/">Membership Form</a></li>
+                <li><a href="./team.html">Officer Team</a></li>
+                <li><a href="./leaderboard.html">Team Leaderboard</a></li>
+                <li><a href="./gallery.html">Photo Gallery</a></li>
+                <li><a href="/">Food Form</a></li>
+            </ul>
+        </div>
+    </nav>
+    <img src="./images/extras/teamBanner.png" alt="" class="banner">
+    <!-- Slideshow container -->
+<div class="slideshow-container">
+    <!-- Full-width images with number and caption text -->
+    <div class="mySlides">
+        <div class="pandvp fade" id="mySlides">
+            <div class="pres">
+                <img src="./images/team/erikaPic.png" alt="" class="erikaPic">
+                <h2 class="presName">Erika Salvador</h2>
+                <h3 class="presPos">President/Dictator</h3>
+            </div>
+            <div class="vp">
+                <img src="./images/team/erinPic.png" alt="" class="erinPic">
+                <h2 class="vpName">Erin Nguyen</h2>
+                <h3 class="vpPos">Vice President</h3>
+            </div>
+        </div>
+    </div>
+     
+    <div class="mySlides">
+        <div class="secretaries fade" id="mySlides">
+            <div class="srSec">
+                <img src="./images/team/aubreyTPic.png" alt="" class="aubreyTPic">
+                <h2 class="srSName">Aubrey Tran</h2>
+                <h3 class="srSPos">Senior Secretary</h3>
+            </div>
+            <div class="jrSec" id="mySlides">
+                <img src="./images/team/meganPic.png" alt="" class="meganPic">
+                <h2 class="jrSName">Megan Loh</h2>
+                <h3 class="jrSPos">Junior Secretary</h3>
+            </div>
+          </div>
+    </div>
+      
+    <div class="mySlides">
+        <div class="comm fade" id="mySlides">
+            <div class="srComm">
+                <img src="./images/team/aubreyNPic.png" alt="" class="aubreyNPic">
+                <h2 class="srCName">Aubrey Nguyen</h2>
+                <h3 class="srCPos">Senior Communication Coordinator</h3>
+            </div>
+            <div class="jrComm">
+                <img src="./images/team/LindseyPic.png" alt="" class="lindsayPic">
+                <h2 class="jrCName">Lindsay Tran</h2>
+                <h3 class="jrCPos">Junior Communicaiton Coordinator</h3>
+            </div>
+          </div>
+    </div>
+     
+    <div class="mySlides">
+        <div class="event fade" id="mySlides">
+            <div class="srEvent">
+                <img src="./images/team/joliePic.png" alt="" class="joliePic">
+                <h2 class="srEName">Jolie Bui</h2>
+                <h3 class="srEPos">Senior Event Coordinator</h3>
+            </div>
+            <div class="jrEvent1">
+                <img src="./images/team/minhThuPic.png" alt="" class="minhThuPic">
+                <h2 class="jrE1Name">Minh Thu Nguyen</h2>
+                <h3 class="jrE1Pos">Junior Event Coordinator</h3>
+            </div>
+            <div class="jrEvent2">
+                <img src="./images/team/britneyPic.png" alt="" class="britneyPic">
+                <h2 class="jrE1Name">Britney Ho</h2>
+                <h3 class="jrE1Pos">Junior Event Coordinator</h3>
+            </div>
+          </div>    
+    </div>
+     
+    <div class="mySlides">
+        <div class="tech fade" id="mySlides">
+            <div class="srTech">
+                <img src="./images/team/reneePic.png" alt="" class="reneePic">
+                <h2 class="srTName">Renee Wang</h2>
+                <h3 class="srTPos">Senior Tech Coordinator</h3>
+            </div>
+           <div class="jrTech">
+                <img src="./images/team/kaylaPic.png" alt="" class="kaylaPic">
+                <h2 class="jrTName">Kayla Sam</h2>
+                <h3 class="jrTPos">Junior Tech Coordinator</h3>
+           </div>
+        </div>
+    </div>
+
+     <!-- Next and previous buttons -->
+     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+     <a class="next" onclick="plusSlides(1)">&#10095;</a>
+ 
+    </div>   
 </body>
 </html>
