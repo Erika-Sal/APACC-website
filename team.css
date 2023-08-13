@@ -354,6 +354,14 @@ a{
         height:120px;
         margin-left:35vw; 
     }  
+
+    .srEName, .jrE1Name, .jrE2Name{
+        font-size:20px; 
+    }
+
+    .srEPos, .jrE1Pos, .jrE2Pos{
+        font-size:16px;
+    }
     
     .socials{
         margin-top:1vh; 
