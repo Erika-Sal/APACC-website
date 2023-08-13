@@ -432,11 +432,11 @@ background-color: red;
 
 .foodWords{
     width: 243px;
-    height: 37px;
+    height: 47px;
     flex-shrink: 0;
     color: #000;
     text-align: center;
-    font-size: 28px;
+    font-size: 33px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
