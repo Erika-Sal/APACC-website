@@ -454,7 +454,7 @@ background-color: red;
 .arrow2{
     width:80px; 
     height:80px; 
-    margin-left:40%; 
+    margin-left:41%; 
 }
 
 #sec3{
@@ -478,7 +478,7 @@ background-color: red;
 }
 
 .learnWords{
-    width: 203px;
+    width: 223px;
     height: 53px;
     margin-top:4vh; 
     flex-shrink: 0;
