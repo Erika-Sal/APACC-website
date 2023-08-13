@@ -505,5 +505,47 @@ background-color: red;
     height:80px; 
     margin-left:40%; 
 }
+
+#sec4{
+    display:flex;
+    display:flex;
+    flex-direction: column-reverse;
+    justify-content:space-between;
+    margin-top:36vh;
+    padding-top:10vh;
+    margin-bottom:5vh; 
+}
+
+.community{
+    width: 273px;
+    height: 124px;
+    flex-shrink: 0;
+    border-radius: 40px;
+    border: 5px solid #000;
+    margin-left:13vw; 
+    margin-top:2vh; 
+}
+
+.communityWords{
+    width: 233px;
+    height: 53px;
+    margin-top:4vh; 
+    flex-shrink: 0;
+    margin-left:4vw; 
+    color: #000;
+    text-align: center;
+    font-size: 33px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.communityPic{
+    width: 245px;
+    height: 256px;
+    flex-shrink: 0;
+    border: 3px solid #000;
+    margin-left:16vw;
+}
     
 }
