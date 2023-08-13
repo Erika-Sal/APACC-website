@@ -419,8 +419,8 @@ background-color: red;
 }
 
 .food{
-    width: 283px;
-height: 44px;
+    width: 253px;
+height: 144px;
 flex-shrink: 0;
 border-radius: 40px;
 border: 5px solid #000;
@@ -433,7 +433,7 @@ margin-left:1vw;
 flex-shrink: 0;
 color: #000;
 text-align: center;
-font-size: 38px;
+font-size: 28px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
@@ -443,7 +443,7 @@ line-height: normal;
 height: 156px;
 flex-shrink: 0;
 border: 3px solid #000;
-margin-right:17vw;
+margin-right:27vw;
 margin-bottom:6vh; 
 }
 
