@@ -460,7 +460,7 @@ background-color: red;
 #sec3{
     display:flex;
     display:flex;
-    flex-direction: column-reverse;
+    flex-direction: column;
     justify-content:space-between;
     margin-top:36vh;
     padding-top:10vh;
@@ -478,13 +478,13 @@ background-color: red;
 }
 
 .leranWords{
-    width: 243px;
+    width: 143px;
     height: 53px;
     margin-top:4vh; 
     flex-shrink: 0;
     color: #000;
     text-align: center;
-    font-size: 33px;
+    font-size: 23px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
