@@ -96,7 +96,7 @@ a{
     border-radius: 10px;
 }
 
-.banner{
+.banner, .banner2{
     width:102%; 
     margin-top:2vh; 
     margin-left:-1vw; 
@@ -552,6 +552,12 @@ background-color: red;
     width:80px; 
     height:80px; 
     margin-left:40%; 
+}
+
+.banner2{
+    height:80vmin; 
+    width:220vmin;
+    margin-left:-47vmin;; 
 }
 
 .joinB{
