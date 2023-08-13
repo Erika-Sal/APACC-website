@@ -243,9 +243,6 @@ body{
 }
 
 @media screen and (max-width: 420px){
-    body{
-      min-height: 100vh;
-    }
     .toggle-button{
         display:flex;
     }
