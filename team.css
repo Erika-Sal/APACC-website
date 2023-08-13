@@ -352,6 +352,7 @@ a{
     .erikaPic, .erinPic, .aubreyTPic, .meganPic, .aubreyNPic, .lindsayPic, .joliePic, .minhThuPic, .britneyPic, .reneePic, .kaylaPic{
         width:100px;
         height:100px;
+        margin-right:20vw; 
     }  
     
     .erikaPic{
