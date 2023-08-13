@@ -435,6 +435,7 @@ background-color: red;
     height: 53px;
     margin-top:4vh; 
     flex-shrink: 0;
+    margin-left:2vw; 
     color: #000;
     text-align: center;
     font-size: 33px;
@@ -488,6 +489,7 @@ background-color: red;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    margin-left:1vw; 
 }
 
 .learnPic{
