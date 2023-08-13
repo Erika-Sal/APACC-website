@@ -392,7 +392,22 @@ background-color: red;
     
         position:absolute; 
         margin-top:-10vh; 
-        margin-left:21vw; 
+        margin-left:25vw; 
     
     }
+
+    .click{
+        margin-left:45.3%;
+        position:absolute;
+        margin-top:-3vh;
+    }
+    
+    .arrow1{
+        position:absolute; 
+        width:80px; 
+        height:80px; 
+        margin-left:44%; 
+        margin-top:-3vh; 
+    }
+    
 }
