@@ -373,7 +373,7 @@ background-color: red;
 
 @media screen and (max-width: 420px){
     .banner{
-        height:50%; 
+        height:150%; 
         width:102%; 
     }
 }
