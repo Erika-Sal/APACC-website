@@ -431,7 +431,7 @@ background-color: red;
 }
 
 .foodWords{
-    width: 343px;
+    width: 143px;
     height: 37px;
     flex-shrink: 0;
     color: #000;
@@ -440,7 +440,7 @@ background-color: red;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    
+    background-color:red; 
 }
 
 .foodPic{
