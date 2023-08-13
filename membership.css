@@ -373,8 +373,8 @@ background-color: red;
 
 @media screen and (max-width: 420px){
     .banner{
-        height:60vmin; 
-        width:102vmin;
+        height:80vmin; 
+        width:150vmin;
         margin-left:20vmin;; 
     }
     .firstButton{
