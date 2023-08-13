@@ -378,7 +378,7 @@ background-color: red;
         margin-left:-10vw; 
     }
     .firstButton{
-        width: 286px;
+        width: 186px;
         height: 46px;
         flex-shrink: 0;
         border-radius: 40px;
@@ -391,8 +391,8 @@ background-color: red;
         line-height: normal;
     
         position:absolute; 
-        margin-top:-33vh; 
-        margin-left:29vw; 
+        margin-top:33vh; 
+        margin-left:10vw; 
     
     }
 }
