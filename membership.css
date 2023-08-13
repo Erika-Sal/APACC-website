@@ -375,11 +375,11 @@ background-color: red;
     .banner{
         height:300px; 
         width:1000px;
-        margin-left:-76vw; 
+        margin-left:-83vw; 
     }
     .firstButton{
-        width: 286px;
-        height: 66px;
+        width: 306px;
+        height: 86px;
         flex-shrink: 0;
         border-radius: 40px;
         background: #B9E4FC;
@@ -391,7 +391,7 @@ background-color: red;
         line-height: normal;
     
         position:absolute; 
-        margin-top:-10vh; 
+        margin-top:-3vh; 
         margin-left:25vw; 
     
     }
