@@ -631,7 +631,7 @@ margin-right:-1vw;
 
     .upcoming{
         font-size:5vmin; 
-        margin-left:-37vmin; 
+        margin-left:-37.5vmin; 
     }
 
     .dates{
@@ -690,7 +690,7 @@ margin-right:-1vw;
     }
 
     .bring{
-        font-size:15px; 
+        font-size:5vmin; 
         margin-left:3vw;
         inline-size: 130px;
         line-height: 3vh;
