@@ -623,7 +623,7 @@ margin-right:-1vw;
 
     .dates{
         padding:10vmin;
-        width:45vmin; 
+        width:55vmin; 
         height:50vmin; 
         border: 5px solid #000000;
         border-radius: 40px;
@@ -632,7 +632,7 @@ margin-right:-1vw;
         font-size:13px; 
         line-height: 28px;
 
-        margin-left:-28vmin; 
+        margin-left:-20vmin; 
     }
     
     .blob2{
