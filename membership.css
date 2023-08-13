@@ -399,15 +399,15 @@ background-color: red;
     .click{
         margin-left:45.3%;
         position:absolute;
-        margin-top:1vh;
+        margin-top:3vh;
     }
     
     .arrow1{
         position:absolute; 
         width:80px; 
         height:80px; 
-        margin-left:43%; 
-        margin-top:1vh; 
+        margin-left:41%; 
+        margin-top:3vh; 
     }
     
 }
