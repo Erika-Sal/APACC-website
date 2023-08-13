@@ -431,14 +431,16 @@ background-color: red;
 }
 
 .foodWords{
-flex-shrink: 0;
-color: #000;
-text-align: center;
-font-size: 28px;
-font-style: normal;
-font-weight: 400;
-line-height: normal;
-margin-right:10vw; 
+    width: 343px;
+    height: 37px;
+    flex-shrink: 0;
+    color: #000;
+    text-align: center;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    
 }
 
 .foodPic{
