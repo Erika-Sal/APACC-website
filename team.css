@@ -342,7 +342,7 @@ a{
     }
     .pandvp, .secretaries, .event, .tech, .comm{
         display:flex;
-        flex-direction:row; 
+        flex-direction:column; 
         text-align: center;
         position:relative;
         justify-content: space-evenly;
@@ -355,7 +355,7 @@ a{
     }  
     
     .erikaPic{
-        margin-left:3vw; 
+        margin-left:4vw; 
     }
     .socials{
         margin-top:1vh; 
