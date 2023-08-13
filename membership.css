@@ -439,6 +439,7 @@ font-size: 28px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
+margin-right:10vw; 
 }
 
 .foodPic{
@@ -446,7 +447,7 @@ line-height: normal;
     height: 256px;
     flex-shrink: 0;
     border: 3px solid #000;
-    margin-left:15vw;
+    margin-left:16vw;
 }
 
 .arrow2{
