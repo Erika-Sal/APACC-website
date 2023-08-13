@@ -370,3 +370,10 @@ background-color: red;
     }
 
 }
+
+@media screen and (max-width: 420px){
+    .banner{
+        height:50%; 
+        width:102%; 
+    }
+}
