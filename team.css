@@ -160,10 +160,7 @@ a{
   }
   
   /* On hover, add a black background color with a little bit see-through */
-  .prev:hover, .next:hover {
-    background-color:  #bbb;
-  }
-  
+ 
 /* The dots/bullets/indicators */
 .dot {
     cursor: pointer;
@@ -255,9 +252,9 @@ a{
     .prev, .next {
         cursor: pointer;
         position: absolute;
-        top: 50%;
+       
         width: auto;
-        margin-top: 35vh;
+        margin-top: -30px;
         padding: 16px;
         color: black;
         font-weight: bold;
@@ -265,6 +262,11 @@ a{
         transition: 0.6s ease;
         border-radius: 0 3px 3px 0;
         user-select: none;
+      }
+
+      .next {
+        right: 0;
+        border-radius: 3px;
       }
       .pandvp, .secretaries, .event, .tech, .comm{
         display:flex;
@@ -276,19 +278,69 @@ a{
         margin-top:-5vh;
     }
 
-    .aubreyNPic, .reneePic, .lindsayPic{
+     .reneePic{
         margin-left:50px; 
     }
 
-    .joliePic, .minhThuPic, .britneyPic{
-        width:120px;
-        height:120px; 
-        margin-left:4vw;
+    .aubreyNPic{
+        margin-left:60px; 
+    }
+
+    .lindsayPic{
+        margin-left:40px; 
+    }
+
+    .britneyPic{
+        margin-right:2vw; 
+    }
+
+     .minhThuPic, .britneyPic{
+        width:80px;
+        height:80px; 
+        margin-left:5vw; 
+       
+    }
+
+    .event{
+        margin-top:2vh; 
     }
 
     .joliePic{
-        margin-left:2vw;
+        width:80px;
+        height:80px; 
+        margin-left:8vw; 
+    
+  
     }
+
+
+    .srEName, .jrE1Name, .jrE2Name{
+        font-size:16px; 
+    }
+
+    .srEPos, .jrE1Pos, .jrE2Pos{
+        font-size:12px;
+    }
+    .contact{
+        font-size: 14px; 
+       }
+    
+       .remind{
+        margin-left:60vw; 
+        width:30px;
+        height:30px; 
+       }
+    
+       .insta{
+        width:30px;
+        height:30px; 
+       }
+    
+       .tt{
+        width:30px;
+        height:30px; 
+       }
+  
     
 }
 
