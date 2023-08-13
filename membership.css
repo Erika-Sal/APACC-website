@@ -385,14 +385,14 @@ background-color: red;
         background: #B9E4FC;
         color: #000;
         text-align: center;
-        font-size: 20px;
+        font-size: 13px;
         font-style: normal;
         font-weight: 400;
         line-height: normal;
     
         position:absolute; 
-        margin-top:10vh; 
-        margin-left:10vw; 
+        margin-top:-20vh; 
+        margin-left:15vw; 
     
     }
 }
