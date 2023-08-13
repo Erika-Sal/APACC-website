@@ -433,7 +433,7 @@ background-color: red;
 .foodWords{
     width: 243px;
     height: 53px;
-    margin-top:1vh; 
+    margin-top:4vh; 
     flex-shrink: 0;
     color: #000;
     text-align: center;
