@@ -191,11 +191,7 @@ border-radius: 40px;
 }
 
 .dates{
-    width: 429px;
-    height: 61px;
     font-family: 'Roboto Slab', serif;
-
-   
     font-style: normal;
     font-weight: 400;
     font-size: 48px;
@@ -212,9 +208,9 @@ border-radius: 40px;
     font-style: normal;
     font-weight: 400;
     font-size: 32px;
-    line-height: 39px;
+   
     text-align: center;
-    margin-left:40px; 
+   
     color: #000000;
 }
 
@@ -628,16 +624,10 @@ margin-right:-1vw;
     .dates{
         box-sizing: border-box;
         position: absolute;
-        width: 47vmin;
-        height: 40vmin;
-        margin-left:50vw; 
-        margin-top:3vh; 
         border: 5px solid #000000;
         border-radius: 40px;
         text-align:center; 
-        margin-left:-25vmin;
-        margin-top:3vh;
-       color:black;
+        color:black;
         font-size:13px; 
         line-height: 28px;
     }
