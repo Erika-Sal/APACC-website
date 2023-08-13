@@ -106,6 +106,13 @@ a{
     .navbar-links.active {
         display:block;
     }
+    .flexbox-items{
+      display:flex;
+      flex-wrap:wrap;
+      flex-direction:row;
+      margin-bottom:2vh; 
+      justify-content:space-evenly;
+    }
 }
 
 .toggle-button .bar{
