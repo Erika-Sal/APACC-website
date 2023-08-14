@@ -201,8 +201,8 @@ a{
 
 @media screen and (max-width: 420px){
     .banner{
-        height:60vmin; 
-        width:150vmin;
+        height:57vmin; 
+        width:145vmin;
         margin-left:-20vmin;; 
     }
     .firstButton{
@@ -219,7 +219,7 @@ a{
         line-height: normal;
     
         position:absolute; 
-        margin-top:-7vh; 
+        margin-top:-10vh; 
         margin-left:8vmin; 
     
     }
