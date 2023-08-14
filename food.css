@@ -231,6 +231,7 @@ a{
     .secondRow{
         display:flex;
         flex-direction:column; 
+        text-align:center; 
     }
 
     .cat{
