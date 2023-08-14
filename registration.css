@@ -36,6 +36,7 @@ button{
     cursor: pointer;
     background: #B9E4FC;
     color:white; 
+    margin-left:20vmin;
 }
 
 @media screen and (max-width: 420px){
