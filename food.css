@@ -198,3 +198,62 @@ a{
         display:block;
     }
 }
+
+@media screen and (max-width: 420px){
+    .banner{
+        height:80vmin; 
+        width:200vmin;
+        margin-left:-47vmin;; 
+    }
+    .firstButton{
+        width: 306px;
+        height: 86px;
+        flex-shrink: 0;
+        border-radius: 40px;
+        background: #B9E4FC;
+        color: #000;
+        text-align: center;
+        font-size: 23px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    
+        position:absolute; 
+        margin-top:-15vh; 
+        margin-left:8vmin; 
+    
+    }
+    .footer{
+        position: absolute;
+        bottom: 0;
+        width: 102%;
+        height: 2.5rem;            
+        margin-top:10vh; 
+        padding-bottom: 3vh; 
+        background-color:#B9E4FC;
+        display:flex;
+    }
+.socials{
+    margin-top:1vh; 
+}
+
+.contact{
+    font-size: 11px; 
+}
+
+.remind{
+    margin-left:60vw; 
+    width:30px;
+    height:30px; 
+   }
+
+.insta{
+    width:30px;
+    height:30px; 
+}
+
+.tt{
+    width:30px;
+    height:30px; 
+}   
+}
