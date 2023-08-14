@@ -232,11 +232,12 @@ a{
         display:flex;
         flex-direction:column; 
         text-align:center; 
+        justify-content: center;
+        align-items: center;
     }
 
     .cat{
-        justify-content: center;
-        align-items: center;
+        
         width:8vmin;
         height:8vmin; 
     }
