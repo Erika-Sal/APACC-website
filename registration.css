@@ -39,9 +39,7 @@ button{
 }
 
 @media screen and (max-width: 420px){
-    .header{
-        text-align:center;
-    }
+    
     h1{
         margin-bottom:2rem;
     }
