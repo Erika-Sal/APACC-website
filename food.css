@@ -219,7 +219,7 @@ a{
         line-height: normal;
     
         position:absolute; 
-        margin-top:-10vh; 
+        margin-top:-8vh; 
         margin-left:8vmin; 
     
     }
@@ -235,6 +235,8 @@ a{
     }
 
     .cat{
+        justify-content: center;
+        align-items: center;
         width:8vmin;
         height:8vmin; 
     }
