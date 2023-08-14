@@ -201,9 +201,9 @@ a{
 
 @media screen and (max-width: 420px){
     .banner{
-        height:70vmin; 
+        height:60vmin; 
         width:150vmin;
-        margin-left:-27vmin;; 
+        margin-left:-20vmin;; 
     }
     .firstButton{
         width: 306px;
