@@ -68,8 +68,7 @@ button{
         cursor: pointer;
         background: #B9E4FC;
         color:white; 
-        justify-content: center;
-        align-items: center;
+        margin-left:50vmin; 
     }
     
 }
