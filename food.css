@@ -225,7 +225,7 @@ a{
     }
 
     .points, .share{
-        font-size:13vmin;
+        font-size:8vmin;
     }
 
     .secondRow{
@@ -235,8 +235,8 @@ a{
     }
 
     .cat{
-        width:14vmin;
-        height:14vmin; 
+        width:8vmin;
+        height:8vmin; 
     }
 
     .footer{
