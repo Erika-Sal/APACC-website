@@ -244,18 +244,7 @@ a{
         height:12vmin; 
     }
 
-    .footer{
-        position: absolute;
-        bottom: 0;
-        width: 102%;
-        height: 2.5rem;            
-        margin-top:10vh; 
-        padding-bottom: 3vh; 
-        background-color:#B9E4FC;
-        display:flex;
-    }
-
-      .socials{
+    .socials{
         margin-top:1vh; 
     }
 
