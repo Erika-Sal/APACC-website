@@ -39,6 +39,12 @@ button{
 }
 
 @media screen and (max-width: 420px){
+    body{
+        display:grid;
+        place-items: center; 
+        overflow-x: hidden;
+        font-family: 'Roboto Slab', serif;
+    }
     h1{
         margin-bottom:2rem;
     }
@@ -68,7 +74,7 @@ button{
         cursor: pointer;
         background: #B9E4FC;
         color:white; 
-        margin-left:50vmin; 
+        margin-left:45vmin; 
     }
     
 }
