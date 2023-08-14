@@ -201,7 +201,7 @@ a{
 
 @media screen and (max-width: 420px){
     .banner{
-        height:50vmin; 
+        height:40vmin; 
         width:145vmin;
         margin-left:-20vmin;; 
     }
