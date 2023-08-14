@@ -254,27 +254,29 @@ a{
         background-color:#B9E4FC;
         display:flex;
     }
-.socials{
-    margin-top:1vh; 
-}
 
-.contact{
-    font-size: 11px; 
-}
+      .socials{
+        margin-top:1vh; 
+    }
 
-.remind{
-    margin-left:60vw; 
-    width:30px;
-    height:30px; 
-   }
+    .contact{
+        font-size: 11px; 
+    }
 
-.insta{
-    width:30px;
-    height:30px; 
-}
+    .remind{
+        margin-left:60vw; 
+        width:30px;
+        height:30px; 
+       }
+    
+    .insta{
+        width:30px;
+        height:30px; 
+    }
 
-.tt{
-    width:30px;
-    height:30px; 
-}   
+    .tt{
+        width:30px;
+        height:30px; 
+    }
+    
 }
