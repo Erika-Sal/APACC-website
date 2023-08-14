@@ -223,6 +223,16 @@ a{
         margin-left:8vmin; 
     
     }
+
+    .points, .share{
+        font-size:3vmin;
+    }
+
+    .cat{
+        width:4vmin;
+        height:4vmin; 
+    }
+
     .footer{
         position: absolute;
         bottom: 0;
