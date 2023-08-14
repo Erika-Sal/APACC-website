@@ -206,7 +206,7 @@ a{
         margin-left:-20vmin;; 
     }
     .firstButton{
-        width: 86vmin;
+        width: 80vmin;
         height: 16vmin;
         flex-shrink: 0;
         border-radius: 40px;
@@ -225,7 +225,7 @@ a{
     }
 
     .points, .share{
-        font-size:8vmin;
+        font-size:7vmin;
     }
 
     .secondRow{
