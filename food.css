@@ -228,6 +228,11 @@ a{
         font-size:3vmin;
     }
 
+    .secondRow{
+        display:flex;
+        flex-direction:column; 
+    }
+
     .cat{
         width:4vmin;
         height:4vmin; 
