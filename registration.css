@@ -42,6 +42,7 @@ button{
 @media screen and (max-width: 420px){
     body{
         margin-right:2vmin; 
+        margin-left:2vmin;
     }
     h1{
         margin-bottom:2rem;
