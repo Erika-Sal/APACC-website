@@ -579,6 +579,16 @@ margin-right:-1vw;
 }
 
 @media screen and (max-width: 420px){
+
+    .headerPic{
+        z-index: -1;
+        width:260vmin;
+        height:80vmin; 
+        margin-bottom:20vh;
+        object-fit:cover;
+        transform: translateX(-7%);
+     }
+    
     .welcome{
         position:absolute;
         margin-left: 2vmin;
@@ -591,7 +601,6 @@ margin-right:-1vw;
         text-align: center;
         color: #FFFFFF;    
         text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-        margin-bottom:-5vmin; 
     }
 
     .asian{
