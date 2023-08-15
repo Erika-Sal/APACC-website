@@ -18,6 +18,17 @@ body{
 
 }
 
+.headerPic{
+    z-index: -1;
+    width:260vmin;
+    height:80vmin; 
+    padding-top:-50px; 
+    margin-bottom:20vh;
+    object-fit:cover;
+    transform: translateX(-7%);
+ }
+
+
 .logo{
     display:flex; 
 }
@@ -127,8 +138,9 @@ a{
 
 .blueCloud{
     position:absolute; 
-    margin-top:-300px; 
-    height: 730px;
+    margin-top:-40vmin; 
+    width:260vmin;
+    height:120vh;
 }
 
 .sec2{
@@ -186,6 +198,13 @@ border-radius: 40px;
 
 }
 
+.upcoming{
+    font-size: 7vmin;
+}
+.d1{
+    line-height:20px;
+}
+
 .dates{
     font-family: 'Roboto Slab', serif;
     font-style: normal;
@@ -193,8 +212,8 @@ border-radius: 40px;
     font-size: 48px;
     line-height: 58px;
     text-align: center;
-    margin-left:10px; 
-
+    margin-left:8vmin; 
+     
     color: #000000;
     width: 345px;
     height: 91px;
@@ -372,9 +391,18 @@ margin-right:-1vw;
         display:block;
     }
 
+    .headerPic{
+        z-index: -1;
+        width:260vmin;
+        height:80vmin; 
+        margin-bottom:20vmin;
+        object-fit:cover;
+        transform: translateX(-7%);
+     }
+
     .welcome{   
         padding-left: 10vw;
-        margin-top:-700px; 
+        margin-top:-115vmin; 
         font-family: 'Roboto Slab', serif;
         font-style: normal;
         font-weight:400;
@@ -387,7 +415,7 @@ margin-right:-1vw;
 
     .asian{
         left: -15vw;
-        top: -78vh;
+        top: -65vmin;
         font-family: 'Roboto Slab', serif;
         font-style: normal;
         inline-size: 450px;
@@ -447,16 +475,21 @@ margin-right:-1vw;
     }
 
     .upcoming{
-        font-size:20px; 
-        margin-left:-23vw; 
+        font-size:4vmin;
+        margin-left:1vmin; 
+        margin-top:10vmin; 
     }
 
     .dates{
         margin-left:-15vw;
         margin-top:-4vh;
        color:black;
-        font-size:15px; 
+       line-height:30px; 
         
+    }
+
+    .d1{
+        font-size: 3vmin;
     }
 
     .sec4Text{
@@ -615,7 +648,10 @@ margin-right:-1vw;
        text-decoration: none;
        border:none;
     }
-
+    
+    .upcoming{
+        font-size:5vmin;
+    }
 
     .dates{
         padding:3vmin;
