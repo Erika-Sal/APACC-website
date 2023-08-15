@@ -649,7 +649,9 @@ margin-right:-1vw;
     }
     
     .upcoming{
-        font-size:5vmin;
+
+    margin-left: 1vmin;
+    margin-top: 6vmin;
     }
 
     .dates{
