@@ -580,15 +580,6 @@ margin-right:-1vw;
 
 @media screen and (max-width: 420px){
 
-    .headerPic{
-        z-index: -1;
-        width:260vmin;
-        height:80vmin; 
-        margin-bottom:20vh;
-        object-fit:cover;
-        transform: translateX(-7%);
-     }
-    
     .welcome{
         position:absolute;
         margin-left: 2vmin;
@@ -604,6 +595,7 @@ margin-right:-1vw;
     }
 
     .asian{
+        position:absolute; 
         margin-top:-35vmin;
         margin-left:29vmin; 
         font-family: 'Roboto Slab', serif;
@@ -618,7 +610,6 @@ margin-right:-1vw;
     .headerPic{
        width:260vw;
        height:80vh; 
-       padding-top:-50px; 
        margin-bottom:20vh;
        transform: translateX(-7%);
     }
