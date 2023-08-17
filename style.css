@@ -217,10 +217,8 @@ border-radius: 40px;
     margin-left:8vmin; 
      
     color: #000000;
-    width: 345px;
-    height: 91px;
-    left: 8vw;
-    top: 10vw;
+    margin-left: .5vw;
+    margin-top: 2vw;
     font-family: 'Roboto Slab', serif;
     font-style: normal;
     font-weight: 400;
