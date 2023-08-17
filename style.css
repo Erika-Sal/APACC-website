@@ -141,6 +141,7 @@ a{
     margin-top:-40vmin; 
     width:260vmin;
     height:120vh;
+    
 }
 
 .sec2{
@@ -180,8 +181,9 @@ a{
 }
 
 .sec3{
+
     display:flex; 
-    margin-top:450px; 
+    margin-top:80vmin; 
 }
 
 .sec3Text{
