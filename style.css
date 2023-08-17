@@ -190,8 +190,8 @@ a{
     box-sizing: border-box;
     font-family: 'Roboto Slab', serif;
 position: absolute;
-width: 80vmin;
-height: 45vmin;
+width: 35vw;
+height: 45vh;
 margin-left:50vw; 
 margin-top:20vh; 
 text-align:center; 
