@@ -134,7 +134,7 @@ a{
 .prev, .next {
     cursor: pointer;
     position: absolute;
-    top: 50vh;
+    top: 20vw;
     width: auto;
     margin-top: 25vh;
     padding: 16px;
