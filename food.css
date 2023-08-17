@@ -98,15 +98,15 @@ a{
 }
 
 .banner{
-    width:102%;
+    width:104%;
     height:28vw; 
    
     margin-left:0vw; 
 }
 
 .firstButton{
-    width: 86vmin;
-    height: 16vmin;
+    width: 40vw;
+    height: 6vw;
     
     border-radius: 40px;
     background: #B9E4FC;
@@ -119,13 +119,14 @@ a{
 
     position:absolute; 
     margin-top:-9vw; 
-    margin-left:31vw; 
+    margin-left:28vw; 
 }
 
 .secondRow{
     display:flex; 
     justify-content: space-evenly;
-    margin-top:3vmin;
+    margin-top:2vw;
+    
 }
 
 .footer{
@@ -134,7 +135,7 @@ a{
     padding-bottom: 3vh; 
     background-color:#B9E4FC;
     display:flex;
-    bottom:0; 
+     bottom: -10;
 }
 
 .socials{
