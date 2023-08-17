@@ -100,7 +100,7 @@ a{
 .banner{
     width:102%;
     height:28vw; 
-    margin-top:-4vh; 
+   
     margin-left:0vw; 
 }
 
@@ -118,8 +118,8 @@ a{
     line-height: normal;
 
     position:absolute; 
-    margin-top:-21vh; 
-    margin-left:66vmin; 
+    margin-top:-9vw; 
+    margin-left:31vw; 
 }
 
 .secondRow{
@@ -134,6 +134,7 @@ a{
     padding-bottom: 3vh; 
     background-color:#B9E4FC;
     display:flex;
+    bottom:0; 
 }
 
 .socials{
