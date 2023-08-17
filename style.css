@@ -190,8 +190,8 @@ a{
     box-sizing: border-box;
     font-family: 'Roboto Slab', serif;
 position: absolute;
-width: 459px;
-height: 287px;
+width: 80vmin;
+height: 45vmin;
 margin-left:50vw; 
 margin-top:20vh; 
 text-align:center; 
@@ -201,7 +201,7 @@ border-radius: 40px;
 }
 
 .upcoming{
-    font-size: 7vmin;
+    font-size: 6vmin;
 }
 .d1{
     line-height:20px;
@@ -224,7 +224,7 @@ border-radius: 40px;
     font-family: 'Roboto Slab', serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 32px;
+    font-size: 5vmin;
    
     text-align: center;
    
