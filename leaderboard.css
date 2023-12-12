@@ -137,10 +137,12 @@ body{
 
   .Place1Words{
     display:flex; 
-    margin-left:105px; 
+    margin-left:40%; 
     font-size:1.5rem;
     margin-top:5px; 
-    inline-size: 10px;
+    padding:5vmin; 
+    margin-bottom:5vmin; 
+    border-radius:4vmin; 
   }
 
   .secondRow{
@@ -197,9 +199,9 @@ body{
   .teamWin{
     border-radius: 20px;
     border: 5px solid #000;
-    width: 638px;
-    height: 86px;
-    margin-left:23vw; 
+    width: 70vmin;
+    height: 80vmin;
+    margin-left:35vw; 
     margin-bottom: 5vh; 
   }
 

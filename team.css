@@ -243,9 +243,9 @@ a{
     .prev, .next {
         cursor: pointer;
         position: absolute;
-       
+        
         width: auto;
-        margin-top: -30px;
+        margin-top: 30%;
         padding: 16px;
         color: black;
         font-weight: bold;
